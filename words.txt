@@ -59978,7 +59978,7 @@ eidouranion
 eigenfunction
 eigenvalue
 eight
-eighteen                
+eighteen
 eighteenfold
 eighteenmo
 eighteenth
@@ -100249,7 +100249,7 @@ Johnsonianism
 Johnsonianly
 Johnsonism
 johnstrupite
-join
+join 
 joinable
 joinant
 joinder
@@ -179256,7 +179256,7 @@ sevennight
 sevenpence
 sevenpenny
 sevenscore
-seventeen
+seventeen                
 seventeenfold
 seventeenth
 seventeenthly
@@ -197632,7 +197632,7 @@ takamaka
 Takao
 takar
 Takayuki
-take 
+take
 takedown
 takedownable
 takeful
